@@ -1,0 +1,10 @@
+Pedro,20
+Patricia,30
+Tulio,31
+Carlos,12
+Juan,1
+Andres,15
+Pablo,11
+Lina,17
+Sebastian,32
+Johan,42
